@@ -13,3 +13,5 @@ to delete -----------> git stash
 to sommit stages-----> git status
 hello world
 hello world !!!!!!!!!
+hai hello
+hai hello!!!!!
