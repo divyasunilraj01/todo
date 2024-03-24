@@ -1,0 +1,4 @@
+Git commands:
+Intialise ------------>git init
+commit --------------->git add filename following git commit -m ""
+ branch -------------->git switch -c branch name to create branch
